@@ -1,0 +1,207 @@
+{
+  "main": {
+    "id": "d7ec780717cb1513",
+    "type": "split",
+    "children": [
+      {
+        "id": "7c7dd371305c2361",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1986c6cd968bad2b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Model Editing/Guides/Retro-Porting/Wings.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bda10bef23f11594",
+    "type": "split",
+    "children": [
+      {
+        "id": "f120c84f7a49a999",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fc7680fbb17064a2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "96ff73dcac3f80f3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a8000d30ca446c6a",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "c2c994cf3fb5797c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 267.5
+  },
+  "right": {
+    "id": "9fd3977fcde2e1a2",
+    "type": "split",
+    "children": [
+      {
+        "id": "944b0f7546506e95",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "993fa59f6438b2bd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Model Editing/Guides/Retro-Porting/Wings.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "76455537f4a888f3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Model Editing/Guides/Retro-Porting/Wings.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f65af382886eeb6d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "74e7c7f7fbcdbe81",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Model Editing/Guides/Retro-Porting/Wings.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "1986c6cd968bad2b",
+  "lastOpenFiles": [
+    "UI/My UI/Shadow Priest Weakaura.md",
+    "UI/My UI/Macros.md",
+    "UI/My UI/Classic.md",
+    "Readme.md",
+    "Model Editing/Guides/Retro-Porting/Wings.md",
+    "Model Editing/Guides/Retro-Porting/Collections to WotLK.md",
+    "Model Editing/Guides/Retro-Porting/Custom Sounds on Creatures.md",
+    "Model Editing/Patches/Custom Models/Goshujin's Models.md",
+    "Model Editing/Patches/Custom Models/Final Fantasy X Weapons.md",
+    "Model Editing/Patches/Area Changes/Restored Arathi and Hillsbrad.md",
+    "Model Editing/Patches/Area Changes/Autumn Durotar.md",
+    "Emulation/Guides/Serverside/Server-Status String for your Webpage.md",
+    "Emulation/Guides/Serverside/Create a Graveyard.md",
+    "Patch Notes/0.x - Pre-release/0.4.0.md",
+    "Model Editing/Patches/Area Changes/Darker Nights.md",
+    "Model Editing/Patches/Custom Models/Cliffs.md",
+    "Model Editing/Patches/Custom Models/Futuristic Buildings.md",
+    "Z. Meta/Attachments/Emulation/Guides/Serverside/Server-Status Page/Post-20-Image-1.jpg",
+    "Z. Meta/Attachments/Emulation/Guides/Serverside/Server-Status Page",
+    "Z. Meta/Attachments/Emulation/Guides/Serverside/New folder",
+    "Z. Meta/Attachments/Emulation/Guides/Serverside/Create a Graveyard/d27c8c2a87.png",
+    "Z. Meta/Attachments/Emulation/Guides/Serverside/Create a Graveyard/af2f8cef5f.png",
+    "Z. Meta/Attachments/Emulation/Guides/Serverside/Create a Graveyard",
+    "Z. Meta/Attachments/Emulation/Guides/Serverside",
+    "Z. Meta/Attachments/Emulation/Guides/New folder",
+    "Z. Meta/Attachments/Emulation/Guides",
+    "Z. Meta/Attachments/Emulation/New folder",
+    "Z. Meta/Attachments/Emulation",
+    "Z. Meta/Attachments/New folder",
+    "Model Editing/Patches/Retro Ports/To WotLK/Legion Beta M2s and WMOs.md",
+    "Emulation/Guides/Serverside",
+    "Model Editing/Patches/Retro Ports/To WotLK/Gilneas for 3.3.5a.md",
+    "Z. Meta/Attachments/Model Editing/Patches/Retro Ports/To WoTLK/Gilneas for 3.3.5a/WoWScrnShot_100314_120843.jpg",
+    "Z. Meta/Attachments/Model Editing/Patches/Retro Ports/To WoTLK/Gilneas for 3.3.5a/WoWScrnShot_100314_114336.jpg",
+    "Z. Meta/Attachments/Model Editing/Patches/Retro Ports/To WoTLK/Gilneas for 3.3.5a/WoWScrnShot_100314_114154.jpg",
+    "Z. Meta/Attachments/Model Editing/Patches/Retro Ports/To WoTLK/Gilneas for 3.3.5a/WoWScrnShot_100314_114016.jpg",
+    "Z. Meta/Attachments/Model Editing/Patches/Retro Ports/To WoTLK/Gilneas for 3.3.5a/Gilneload.jpg",
+    "Model Editing/Patches/Retro Ports/To WotLK/Cata Water for Wrath.md",
+    "Model Editing/Patches/Retro Ports/To WotLK/3.3.5 Ported CataDev Maps.md",
+    "Z. Meta/Attachments/Model Editing/Patches/Retro Ports/To WoTLK/Cata Water for Wrath/screenshots_04.png.6d763786fbc1d7c2d8bfc6bda90b5dc5.png",
+    "Z. Meta/Attachments/Model Editing/Patches/Retro Ports/To WoTLK/Cata Water for Wrath/screenshots_03.png.72b9e90e7eb966c9a9f0167af8f86016.png",
+    "Model Editing/Patches/Retro Ports/To WotLK/Cata+ Ground Effects.md",
+    "Model Editing/Patches/Retro Ports/To WotLK/WoD Textures.md",
+    "Model Editing/Patches/Retro Ports/To WotLK/Turalyon and Alleria.md",
+    "Model Editing/Patches/Retro Ports/To WotLK/3.3.5 Legion Creatures.md",
+    "Model Editing/Tools/WDT/WDTSupplies.md"
+  ]
+}

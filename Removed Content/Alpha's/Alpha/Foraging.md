@@ -1,0 +1,1 @@
+**Foraging** was a planned secondary profession. It never made it past the alpha. [[Kesteryth]] was planned to be a trainer for this skill. 

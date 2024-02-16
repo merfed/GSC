@@ -1,0 +1,1 @@
+**Tracking** was a planned secondary profession. It never made it past the alpha. The [[World Tracking Trainer]] was planned to be a trainer for this skill. 

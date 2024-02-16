@@ -1,0 +1,1 @@
+**Darkhollow Mine** was one of the planned mines in Elwynn Forest during early World of Warcraft alpha, along with the Fargodeep Mine and the Jasperlode Mine. 

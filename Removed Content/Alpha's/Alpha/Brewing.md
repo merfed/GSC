@@ -1,0 +1,1 @@
+**Brewing** was a planned secondary profession. It never made it past the alpha. The [[World Brewing Trainer]] was planned to be a trainer for this skill. 

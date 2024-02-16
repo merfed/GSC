@@ -1,0 +1,1 @@
+No information is known other than it started and ended the quest [[Kill Stuff]].

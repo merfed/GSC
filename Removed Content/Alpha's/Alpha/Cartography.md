@@ -1,0 +1,1 @@
+**Cartography** was a planned secondary profession. It never made it past the alpha. [[Kitari Farseeker]] and the [[World Cartography Trainer]] were planned to be a trainer for this skill. [[Talegon]] was to be a cartography vendor. 
